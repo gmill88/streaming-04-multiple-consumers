@@ -16,7 +16,7 @@ import csv
 from util_logger import setup_logger
 
 logger, logname = setup_logger(__file__)
-
+# Offer to open RabbitMQ Admin Page
 def offer_rabbitmq_admin_site():
     """Offer to open the RabbitMQ Admin website"""
     ans = input("Would you like to monitor RabbitMQ queues? y or n ")
