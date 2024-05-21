@@ -1,0 +1,17 @@
+2024-05-21 13:10:57,672.v3_listening_worker.INFO ==================================================
+2024-05-21 13:10:57,673.v3_listening_worker.INFO Today is 2024-05-21 at 01:10 PM
+2024-05-21 13:10:57,673.v3_listening_worker.INFO Running on: posix Darwin 23.4.0
+2024-05-21 13:10:57,673.v3_listening_worker.INFO Python version:  3.11.5
+2024-05-21 13:10:57,673.v3_listening_worker.INFO Python path: /Users/grahammiller/anaconda3
+2024-05-21 13:10:57,673.v3_listening_worker.INFO Working dir: /Users/grahammiller/streaming-04-multiple-consumers
+2024-05-21 13:10:57,673.v3_listening_worker.INFO ==================================================
+2024-05-21 13:10:57,707.v3_listening_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2024-05-21 13:12:07,143.v3_listening_worker.INFO  [x] Received Second task.... at 2024-05-21 13:12:07.14341022024-05-21 13:12:11,145.v3_listening_worker.INFO  [x] Done.
+2024-05-21 13:12:11,148.v3_listening_worker.INFO  [x] Received Forth task... at 2024-05-21 13:12:11.148502
+2024-05-21 13:12:15,138.v3_listening_worker.INFO  [x] Done.
+2024-05-21 13:12:15,140.v3_listening_worker.INFO  [x] Received Sixth task... at 2024-05-21 13:12:15.140333
+2024-05-21 13:12:18,142.v3_listening_worker.INFO  [x] Done.
+2024-05-21 13:12:18,145.v3_listening_worker.INFO  [x] Received Eighth task... at 2024-05-21 13:12:18.145253
+20242024-05-21 13:12:23,161.v3_listening_worker.INFO  [x] Done.
+-05-21 13:12:21,155.v3_listening_worker.INFO  [x] Received Ninth Task.... at 2024-05-21 13:12:21.155609
+2024-05-21 13:12:25,158.v3_listening_worker.INFO  [x] Done.
