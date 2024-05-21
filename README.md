@@ -85,4 +85,4 @@ RabbitMQ comes with an admin panel. When you run the task emitter, reply y to op
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
-![Screenshot_1](Multiple Terminals 04.png)
+![alt text](image.png)
