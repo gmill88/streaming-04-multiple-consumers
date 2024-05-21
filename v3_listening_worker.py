@@ -1,7 +1,19 @@
+"""
+    This program listens for work messages contiously. 
+    Start multiple versions to add more workers.  
+
+    Author: Graham Miller
+    Date: May 21, 2024
+
+"""
+
+# Imports
 import pika
 import sys
 import time
 import datetime
+
+# Configure Logging
 from util_logger import setup_logger
 
 logger, logname = setup_logger(__file__)
